@@ -1,8 +1,8 @@
 {
   "appId": "com.idtech.dobra.sample",
-  "version": "0.2.0-test",
-  "versionCode": 2,
-  "sha256": "fe2000ecc23b028bbe2b3d1250ff820a546e959fab4521a40959302b9cd0bc56",
-  "apkUrl": "https://github.com/Snoozept/dobra-releases/releases/download/v0.2.0-test/dobra-amostra.apk",
-  "sizeBytes": 903427
+  "version": "0.3.0-test",
+  "versionCode": 3,
+  "sha256": "201113149f2b62c0679b542d8f022848327acd9badce3c324e7bdf23244e38a2",
+  "apkUrl": "https://github.com/Snoozept/dobra-releases/releases/download/v0.3.0-test/dobra-amostra.apk",
+  "sizeBytes": 932099
 }
